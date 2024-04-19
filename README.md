@@ -18,7 +18,7 @@
 ### Project Introduction
 
 
-This analytice project aims to provide insight into the sales performance of a retail sales company over the past years, by analyzing various aspect of the sales data, identify trends, make data driven recommendations and gain a deeper understanding of the business performance. 
+This business intelligence report aims to provide insight into the sales performance of a retail sales company over the past years, by analyzing various aspect of the sales data, identify trends, make data driven recommendations and gain a deeper understanding of the business performance. 
 
 ### Data Source
 
