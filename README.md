@@ -1,5 +1,8 @@
 # Retail Store Sales Analysis
 
+![88062248-sales-presentation-background-with-technology-abstract-art](https://github.com/Babatee18/Babatunde-Oduwole/assets/167521089/e063c35e-784d-4caf-9c80-9597979d6440)
+
+
 ## Table of Contents
 
 - [Project Introduction](Project-Introduction)
