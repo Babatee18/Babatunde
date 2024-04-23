@@ -5,15 +5,15 @@
 
 ## Table of Contents
 
-- [Project Introduction](Project-Introduction)
-- [Data Source](Data-Source)
-- [Tools](Tools)
-- [Data Cleaning/Preparation](Data-Cleaning/Preparation)
-- [Exploratory Data Analysis (EDA)](Exploratory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
-- [Findings](Findings)
-- [Recommendations](Recommendation)
-- [Limitations](Limitations)
+- [Project Introduction](#Project-Introduction)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
+- [Findings](#Findings)
+- [Recommendations](#Recommendation)
+- [Limitations](#Limitations)
 
 ### Project Introduction
 
