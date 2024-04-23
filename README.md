@@ -61,8 +61,9 @@ FROM sales_data;
 ```
 
 ```sql
-DELETE FROM sales_data
-WHERE segment = null;
+UPDATE sales_data
+SET segment = 0
+WHERE segment IS null;
 ```
 
 ### Findings
