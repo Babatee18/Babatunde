@@ -61,9 +61,8 @@ FROM sales_data;
 ```
 
 ```sql
-UPDATE sales_data
-SET segment = 0
-WHERE segment IS null;
+UPDATE sales_data 
+SET segment = COALESCE(segment, 0);
 ```
 
 ### Findings
