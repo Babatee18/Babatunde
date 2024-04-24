@@ -43,7 +43,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 1. What was the total revenue?
 2. What was the cost of sales?
-3. What the the profit?
+3. What was the the profit?
 4. What was the profit margin?
 5. What was the revenue for each month?
 6. What was the revenue from each country?
